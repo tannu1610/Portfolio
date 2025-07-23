@@ -59,7 +59,7 @@ const Hero = () => {
             </h1>
 
             <h2 className="sm:text-3xl mb-4 font-bold text-blue-950 dark:text-blue-300">
-              Software Engineer
+              Software Engineering Student
             </h2>
 
             <p className="mb-8 leading-relaxed text-black dark:text-gray-300 max-w-lg">
